@@ -163,4 +163,10 @@ a:hover {
   .middle-container .intro {
     width: 95%;
   }
+
+Body{
+           padding-left: 5px;
+           padding-right: 5px;
+}
+
 }
