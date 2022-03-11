@@ -69,7 +69,9 @@ a:hover {
   margin: 10px 20px;
 }
 
-
+.certs-with-transcripts{
+       text-decoration: none;
+}
 
 
 
